@@ -1,0 +1,6 @@
+*.txt
+tmp/
+*.log
+*.class
+*.bmp
+
